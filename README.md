@@ -8,11 +8,11 @@ My name is Sarah!
 
 🎮 Soon I will be focuing on video game developement. Find my [playlist here](https://www.youtube.com/playlist?list=PLjoGSbuzyEri7kBQ1A7llaToqlXMfEydz).
 
-📷 I stream on my personal Twitch ([@drguthals](https://twitch.tv/drguthals)) and on the [Microsoft Developer YouTube](https://youtube.com/MicrosoftDeveloper) weekly. Find my [streaming schedule here](streaming.md).
+📷 I stream on my personal Twitch ([@drguthals](https://twitch.tv/drguthals)) and on the [Microsoft Developer YouTube](https://youtube.com/MicrosoftDeveloper) weekly. Find my [streaming schedule here](https://guthals.com/Sarah/streaming.html).
 
 ▶️ I have two YouTube channels: [Sarah Guthals, PhD](https://www.youtube.com/channel/UCgvODZ135iGUbhqE9bSjVSg) and [We Can with Dr G](https://www.youtube.com/channel/UC-iq8A4aamvIWVf038rWcyw)
 
-📚 I have written a number of papers and books around technical and educational topics. Check out all of my [publications here](publications.md).
+📚 I have written a number of papers and books around technical and educational topics. Check out all of my [publications here](https://guthals.com/Sarah/publications.html).
 
 📫 How to reach me: Twitter: [@drguthals](https://twitter.com/drguthals) Instagram: [@drguthals](https://instagram.com/drguthals) LinkedIn: [@drguthals](https://www.linkedin.com/in/drguthals/)
 
